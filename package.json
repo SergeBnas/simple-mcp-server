@@ -1,0 +1,14 @@
+{
+  "name": "simple-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple MCP server with three tools for a small company handbook",
+  "author": "Serge Bou Nassar",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.12.0",
+    "zod": "3.24.2"
+  }
+}
